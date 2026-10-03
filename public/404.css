@@ -28,7 +28,7 @@ body {
 
 .notfound-image {
   display: block;
-  width: 12rem;
+  width: min(18rem, 60vw);
   height: auto;
   margin-bottom: 0.5rem;
 }
